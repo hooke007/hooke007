@@ -1,4 +1,4 @@
-### Hi there 👋
+### NOT a programmer
 
 <!--
 **hooke007/hooke007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
